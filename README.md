@@ -8,7 +8,8 @@ utilizator. Sugestiile fiind și mai precise pe parcurs ce tasteaza mai multe li
 către un fisier .php care conține numele de utilizatori stocat într-un vector.
 
 După realizarea cu succes a logarii, utilizatorul beneficiază de deschiderea zonei de lucru. Acest spațiu are următoarea
-arhitectura: ➢ Mini-meniu Opțiuni: 
+arhitectura: 
+➢ Mini-meniu Opțiuni: 
 *File →New (pagina nouă de lucru, stergere desen);  
 *File → Browse (Încarca imaginea dorita  pe pagina de desenat);  
 *File → Download (Descarcare pagina de lucru sub forma unei imagini);         
